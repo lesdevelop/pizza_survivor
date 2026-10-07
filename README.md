@@ -32,6 +32,3 @@ Pizza Survivor is a Python minigame where the player must survive as long as pos
 ```bash
 git clone https://github.com/TU_USUARIO/pizza-survivor.git
 
-Author
-
-Laura Estraviz Sanchez
