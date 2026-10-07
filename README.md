@@ -24,6 +24,7 @@ Pizza Survivor is a Python minigame where the player must survive as long as pos
 ## Technologies
 
 - Python
+- Pygame
 
 ## How to Run
 
